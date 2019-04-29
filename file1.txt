@@ -1,2 +1,3 @@
 welcome to git
 Git is a version control system
+Todai is Monday
